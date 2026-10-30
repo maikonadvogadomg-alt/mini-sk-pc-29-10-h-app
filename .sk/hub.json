@@ -1,0 +1,17 @@
+{
+  "titulo": "Mini-SK-PC-29-10-H",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "app/index.html",
+      "nome": "Mini SK",
+      "desc": "",
+      "on": true,
+      "icone": "app/icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
